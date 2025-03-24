@@ -4,7 +4,7 @@
 namespace LiJun{
   class PluginTest{
     public:
-      virtual ~PluginTest();
+      virtual ~PluginTest(){}
       virtual void DoSomething() = 0;
   };
 }

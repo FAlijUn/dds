@@ -1,0 +1,5 @@
+<library path="plugin_test_impl">
+    <class type="LiJun::PluginTestImpl" base_class_type="LiJun::PluginTest">
+        <description>example</description>
+    </class>
+</library>

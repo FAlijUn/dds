@@ -1,6 +1,6 @@
 #include <rclcpp/rclcpp.hpp>
 #include <pluginlib/class_loader.hpp>
-#include "plugin_test_impl.h"
+#include "ros2_plugin_test/plugin_test_interface.h"
 
 int main(int argc, char** argv) {
   rclcpp::init(argc, argv);
